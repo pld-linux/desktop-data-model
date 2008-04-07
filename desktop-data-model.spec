@@ -1,12 +1,12 @@
 Summary:	Data model for the online desktop
 Summary(pl.UTF-8):	Model danych dla online'owego biurka
 Name:		desktop-data-model
-Version:	1.2.2
+Version:	1.2.3
 Release:	1
 License:	LGPL v2
 Group:		Libraries
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/desktop-data-model/1.2/%{name}-%{version}.tar.bz2
-# Source0-md5:	a691a1bf82d5a4ee2da763c5ebe4122a
+# Source0-md5:	6efc8375734a20424d6ebaca395a7888
 BuildRequires:	autoconf >= 2.59
 BuildRequires:	automake
 BuildRequires:	dbus-devel >= 1.0.0
