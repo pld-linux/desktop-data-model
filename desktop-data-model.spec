@@ -12,7 +12,7 @@ BuildRequires:	automake
 BuildRequires:	dbus-devel >= 1.0.0
 BuildRequires:	dbus-glib-devel >= 0.61
 BuildRequires:	empathy-devel
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	gnome-desktop-devel >= 2.10.0
 BuildRequires:	gnome-vfs2-devel
 BuildRequires:	gtk+2-devel >= 2:2.10.0
